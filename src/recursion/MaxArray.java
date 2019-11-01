@@ -1,4 +1,6 @@
-public class MaxArrayTest {
+package recursion;
+
+public class MaxArray {
 
     class InfoA{
         private int maxLeft;
@@ -77,10 +79,11 @@ public class MaxArrayTest {
 
     public static void main(String[] args){
 
-        MaxArrayTest aa= new MaxArrayTest();
-        int[] a = {1,2,-1,4,-9,1,3,9};
+        MaxArray aa= new MaxArray();
+        int[] a = {-7,-2,-1,-4,-9,-2,-3,-9};
         InfoA infoA=aa.getMax(a,0,7);
         System.out.println(infoA.getSum());
+        System.out.println(infoA.getMaxLeft());
 
     }
 }
