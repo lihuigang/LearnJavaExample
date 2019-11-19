@@ -2,35 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a53225f-a3a6-4bc5-8509-65f390186f54" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tmp/BitmapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tmp/GruppingSetsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJavaExample/BitSetTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJavaExample/HashMapTest$Entry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJavaExample/HashMapTest$EntryIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJavaExample/HashMapTest$EntrySet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJavaExample/HashMapTest$EntrySpliterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJavaExample/HashMapTest$HashIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJavaExample/HashMapTest$HashMapSpliterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJavaExample/HashMapTest$KeyIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJavaExample/HashMapTest$KeySet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJavaExample/HashMapTest$KeySpliterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJavaExample/HashMapTest$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJavaExample/HashMapTest$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJavaExample/HashMapTest$ValueIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJavaExample/HashMapTest$ValueSpliterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJavaExample/HashMapTest$Values.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJavaExample/HashMapTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJavaExample/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJavaExample/recursion/MaxArray$InfoA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJavaExample/recursion/MaxArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJavaExample/recursion/SquareMetrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BitSetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tmp/BitSetTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HashMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tmp/HashMapTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tmp/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrayorder/InsertOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/arrayorder/InsertOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion/MaxArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tmp/recursion/MaxArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion/SquareMetrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tmp/recursion/SquareMetrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tmp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tmp/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,19 +17,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/tmp/recursion/MaxArray.java">
+        <entry file="file://$PROJECT_DIR$/src/com/tmp/recursion/SquareMetrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="450">
+              <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/tmp/recursion/SquareMetrix.java">
+        <entry file="file://$PROJECT_DIR$/src/com/tmp/recursion/MaxArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -69,37 +44,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/atguigu/avl/AVLTreeDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/com/atguigu/dijkstra/DijkstraAlgorithm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/atguigu/binarysearchnorecursion/BinarySearchNoRecur.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/atguigu/binarysorttree/BinarySortTreeDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/atguigu/dac/Hanoitower.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -107,8 +55,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="990">
-              <caret line="66" selection-start-line="66" selection-end-line="66" />
+            <state relative-caret-position="945">
+              <caret line="63" column="8" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/tmp/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/tmp/BitmapTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/tmp/GruppingSetsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-17">
+              <caret line="90" column="57" selection-start-line="90" selection-start-column="57" selection-end-line="90" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -116,7 +94,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/tmp/HashMapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2100">
+            <state relative-caret-position="1920">
               <caret line="140" column="13" selection-start-line="140" selection-start-column="13" selection-end-line="140" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -176,6 +154,9 @@
         <option value="$PROJECT_DIR$/src/recursion/SquareMetrix.java" />
         <option value="$PROJECT_DIR$/src/arrayorder/InsertOrder.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/com/tmp/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/tmp/BitmapTest.java" />
+        <option value="$PROJECT_DIR$/src/com/tmp/GruppingSetsTest.java" />
       </list>
     </option>
   </component>
@@ -221,58 +202,15 @@
               <item name="LearnJavaExample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="arrayorder" type="462c0819:PsiDirectoryNode" />
+              <item name="tmp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LearnJavaExample" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearnJavaExample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="avl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnJavaExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnJavaExample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="avl" type="462c0819:PsiDirectoryNode" />
-              <item name="AVLTreeDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="LearnJavaExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnJavaExample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="binarysearchnorecursion" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnJavaExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnJavaExample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="binarysorttree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnJavaExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnJavaExample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="binarysorttree" type="462c0819:PsiDirectoryNode" />
-              <item name="BinarySortTreeDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="LearnJavaExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnJavaExample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="dac" type="462c0819:PsiDirectoryNode" />
+              <item name="tmp" type="462c0819:PsiDirectoryNode" />
+              <item name="recursion" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LearnJavaExample" type="b2602c69:ProjectViewProjectNode" />
@@ -286,7 +224,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573356996350" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573802341605" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -312,10 +250,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SquareMetrix">
+  <component name="RunManager" selected="Application.GruppingSetsTest">
     <configuration name="BitSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tmp.BitSetTest" />
       <module name="LearnJavaExample" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GruppingSetsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tmp.GruppingSetsTest" />
+      <module name="LearnJavaExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tmp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -352,6 +303,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GruppingSetsTest" />
         <item itemvalue="Application.SquareMetrix" />
         <item itemvalue="Application.MaxArrayTest" />
         <item itemvalue="Application.BitSetTest" />
@@ -374,8 +326,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="63" width="1400" height="790" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37849778" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27687776" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -384,12 +337,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295129" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30659026" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5601719" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.43696275" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37535816" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.11604585" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.17621776" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3295129" />
@@ -409,7 +362,7 @@
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/com/tmp/HashMapTest.java</url>
           <line>262</line>
-          <properties field="TREEIFY_THRESHOLD" class="HashMapTest" />
+          <properties field="UNTREEIFY_THRESHOLD" class="com.tmp.HashMapTest" />
           <option name="timeStamp" value="43" />
         </line-breakpoint>
       </breakpoints>
@@ -477,9 +430,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/LearnJavaExample/Main.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/LearnJavaExample/Main.class" />
     <entry file="file://$PROJECT_DIR$/src/HashMap.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -535,34 +486,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tmp/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tmp/recursion/MaxArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tmp/recursion/SquareMetrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/arrayorder/InsertOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/atguigu/avl/AVLTreeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
@@ -577,16 +500,72 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/binarysorttree/BinarySortTreeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/dac/Hanoitower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tmp/recursion/SquareMetrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tmp/recursion/MaxArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/arrayorder/InsertOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/dijkstra/DijkstraAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        <state relative-caret-position="945">
+          <caret line="63" column="8" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tmp/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tmp/BitmapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/tmp/HashMapTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2100">
+        <state relative-caret-position="1920">
           <caret line="140" column="13" selection-start-line="140" selection-start-column="13" selection-end-line="140" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -604,17 +583,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/binarysorttree/BinarySortTreeDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tmp/GruppingSetsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/dac/Hanoitower.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="-17">
+          <caret line="90" column="57" selection-start-line="90" selection-start-column="57" selection-end-line="90" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
